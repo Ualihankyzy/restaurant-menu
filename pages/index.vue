@@ -41,7 +41,7 @@
 
       <div class="tm-popular-item-card">
         <div class="tm-popular-item">
-          <img src="/images/telegram-cloud-photo-size-2-5264949883184025439-y.jpg" alt="Popular" class="tm-popular-item-img">
+          <img src="/images/IMAGE 2025-11-24 15:44:46.jpg" alt="Popular" class="tm-popular-item-img">
         </div>
 
   
